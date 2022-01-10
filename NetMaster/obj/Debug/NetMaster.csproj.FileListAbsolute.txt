@@ -1,0 +1,6 @@
+C:\Users\Awire\source\repos\NetMaster\NetMaster\bin\Debug\NetMaster.dll
+C:\Users\Awire\source\repos\NetMaster\NetMaster\bin\Debug\NetMaster.pdb
+C:\Users\Awire\source\repos\NetMaster\NetMaster\obj\Debug\NetMaster.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\NetMaster\NetMaster\obj\Debug\NetMaster.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\NetMaster\NetMaster\obj\Debug\NetMaster.dll
+C:\Users\Awire\source\repos\NetMaster\NetMaster\obj\Debug\NetMaster.pdb
